@@ -1,6 +1,6 @@
 # hitchFitSupplementsShopPlayWright
 
-Simple Playwright test suite on basic user account creation, product addition to cart/checkout (checkout isn't implemented). The test suite captures screenshots at the end of test case run (for logging purposes).
+Simple Playwright test suite on basic product addition to cart/checkout (checkout isn't implemented). The test suite captures screenshots at the end of test case run (for logging purposes).
 
 
 #Tech Requirements:
