@@ -13,7 +13,7 @@ Simple Playwright test suite on basic product addition to cart/checkout (checkou
 
 4. JUnit5 5.1x
 
-5. Playwright 1.59p
+5. Playwright 1.59
 
 #Setup
 
