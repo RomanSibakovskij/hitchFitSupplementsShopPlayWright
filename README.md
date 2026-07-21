@@ -3,7 +3,7 @@
 Simple Playwright test suite on basic product addition to cart/checkout (checkout isn't implemented). The test suite captures screenshots at the end of test case run (for logging purposes).
 
 
-#Tech Requirements:
+# Tech Requirements:
 
 1.Java JDK 8 or higher
 
@@ -15,7 +15,7 @@ Simple Playwright test suite on basic product addition to cart/checkout (checkou
 
 5. Playwright 1.59
 
-#Setup
+# Setup
 
 1. Clone this repository into IntelliJ(or other IDE) workspace folder (or wherever the project can be launched by IDE)
 2. Open the IDE and open the project folder

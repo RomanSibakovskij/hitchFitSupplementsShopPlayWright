@@ -15,7 +15,7 @@ public class BaseTest {
         playwright = Playwright.create();
 
         browser = playwright.chromium().launch(new BrowserType.LaunchOptions()
-                .setHeadless(false) //true for CI; false for in-browser run
+                .setHeadless(true) //true for CI; false for in-browser run
                 .setArgs(java.util.List.of("--disable-search-engine-choice-screen")));
 
         context = browser.newContext(new Browser.NewContextOptions()
